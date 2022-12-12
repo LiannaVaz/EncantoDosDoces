@@ -1,1 +1,2 @@
 # Encantodosdoces
+O projeto Encanto dos doces, foi criado após as intruçôes do professor do curso Novos Talentos em TI, na qual, deveriamos criar um projeto com aquilo que estudamos durante o curso. Com isso, acabei escolhendo usar as linguagens HTML, CSS, Javascript e tentei adicionar o JQuery. Primeiro tive que pensar em uma ideia e como faria isso, até que comprei um bolo e ali nasceu o projeto, criei uma pequena hitória da empresa, escolhi as fotos e icons, nos sites de imagens gratuitas, como o Freepik e o Adobe Stock, as fontes foram encontradas no Google fonts.
